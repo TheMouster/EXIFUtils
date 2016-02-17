@@ -1,0 +1,7 @@
+D:\Repositories\Libraries\Classified Systems\Utilities\EXIFUtils\bin\Release\EXIFUtils.dll
+D:\Repositories\Libraries\Classified Systems\Utilities\EXIFUtils\bin\Release\EXIFUtils.pdb
+D:\Repositories\Libraries\Classified Systems\Utilities\EXIFUtils\bin\Release\EXIFLibrary.dll
+D:\Repositories\Libraries\Classified Systems\Utilities\EXIFUtils\bin\Release\EXIFLibrary.pdb
+D:\Repositories\Libraries\Classified Systems\Utilities\EXIFUtils\obj\Release\EXIFUtils.csprojResolveAssemblyReference.cache
+D:\Repositories\Libraries\Classified Systems\Utilities\EXIFUtils\obj\Release\EXIFUtils.dll
+D:\Repositories\Libraries\Classified Systems\Utilities\EXIFUtils\obj\Release\EXIFUtils.pdb
